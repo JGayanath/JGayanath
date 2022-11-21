@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java , Flutter**
 
-- 📫 How to reach me **janakaGayanath@gmail.com**
+- 📫 How to reach me **janakagayanath@gmail.com**
 
 - ⚡ Fun fact **Simple**
 
