@@ -1,7 +1,4 @@
 ### Hi there 👋
-![0_s7of7kWnf9fDg4XM](https://user-images.githubusercontent.com/109034096/203060631-b4dbeb96-63b9-4ac6-b976-e73b503a5a38.jpeg)
-
-
 <!--
 **JGayanath/JGayanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
