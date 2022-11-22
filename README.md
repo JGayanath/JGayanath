@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.techbrains.net/wp-content/uploads/2022/05/mobile-app-banner.jpg" align="center" height="300" width="1300" />
+<img src="https://www.techbrains.net/wp-content/uploads/2022/05/mobile-app-banner.jpg" align="center" height="300" width="2500" />
 </div>  
   
 
